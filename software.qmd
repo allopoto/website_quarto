@@ -1,0 +1,31 @@
+---
+title: "Software"
+listing:
+  contents:
+    - path: https://github.com/Jhsmit/ipymolstar
+      image: https://raw.githubusercontent.com/Jhsmit/ipymolstar/master/assets/ipymolstar_screenshot.png
+      title: "ipymolstar"
+      description: "ipymolstar wraps the Mol* molecular visualization library for use in Jupyter notebooks or python-based web aplications. "
+      date: "2024-05-10"
+
+    - path: https://github.com/Jhsmit/PyHDX/
+      image: https://raw.githubusercontent.com/Jhsmit/PyHDX/master/images/screenshot_pyhdx043.png
+      title: "PyHDX"
+      description: "PyHDX is used to analyize HDX-MS datasets and express them as residue-level Gibbs free energies. Deuterium uptake kinetics are described as a single fit parameter per-residue using a PyTorch optimizer and the Linderstrøm-Lang model of Hydrogen-Deuterium Exchange. The project features an interactive web interface where users can upload, analyze and visualize their data."
+      date: "2024-01-11"
+
+    - path: https://github.com/Jhsmit/HDXrate/
+      image: https://raw.githubusercontent.com/Jhsmit/HDXrate/master/HDX_rate.jpg
+      title: "HDXrate"
+      description: "HDX intrinsic exchange rate calculation of amide hydrogens."
+      date: "2023-10-23"
+
+    - path: https://github.com/Jhsmit/ColiCoords
+      image: https://raw.githubusercontent.com/Jhsmit/ColiCoords/master/images/logo_with_cell_1280x640.png
+      title: "ColiCoords"
+      description: "ColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells. The project is aimed to be an open, well documented platform where users can easily share data through compact hdf5 files and analysis pipelines in the form of Jupyter notebooks."
+      date: "2019-11-18"
+      
+page-layout: full
+title-block-banner: true
+---

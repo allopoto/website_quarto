@@ -1,14 +1,12 @@
----
-title: "Jochem's Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
+# Welcome to Jochem's personal website. 
 
 
+This website provides an overview of my work and interests.  
+
+I am currently a postdoctoral researcher at the KU Leuven, Belgium. 
+
+
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+Welcome to my website ! Please enjoy your visit.
+</marquee>

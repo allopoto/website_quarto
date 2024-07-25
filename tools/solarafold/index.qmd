@@ -1,0 +1,17 @@
+---
+title: "Solarafold"
+image: "thumbnail.png"
+date: "2024-05-12"
+
+---
+
+Solarafold is a [solara](https://solara.dev/) based viewer for alphafold3 modelling results. Users can upload their alphafold3 `.zip` result file and view resulting models with [ipymolstar](https://github.com/Jhsmit/ipymolstar).
+
+For full screen and source code head over to the [HuggingFace space](https://huggingface.co/spaces/Jhsmit/solarafold/tree/main).
+
+<iframe
+	src="https://jhsmit-solarafold.hf.space"
+	frameborder="0"
+	width="100%"
+	height="800"
+></iframe>

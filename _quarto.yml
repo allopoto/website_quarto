@@ -2,14 +2,26 @@ project:
   type: website
 
 website:
-  title: "website_quarto"
+  title: "Jochem's Website"
   navbar:
+    left:
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "Tools"
+        href: tools.qmd
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Jhsmit
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/Jhsmit_
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jochem-smit-4ba2a994/
+
 format:
   html:
     theme: cosmo
