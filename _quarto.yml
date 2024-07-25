@@ -14,18 +14,20 @@ website:
       - text: "Tools"
         href: tools.qmd
     right:
-      - about.qmd
+      - text: About
+        href: about.qmd
       - icon: github
         href: https://github.com/Jhsmit
       - icon: twitter
         href: https://x.com/Jhsmit_
       - icon: linkedin
         href: https://www.linkedin.com/in/jochem-smit-4ba2a994/
+      - icon: file-earmark-person
+        href: CV_Jochem_Smit.pdf
 
 format:
   html:
     theme: cosmo
     css: styles.css
-
 
 
