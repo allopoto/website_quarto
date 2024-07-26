@@ -19,21 +19,23 @@ My interest in mechanisms of physical law and biological machinery is what drive
 
 ## Experience
 
+{{< fa flask-vial >}} {{< fa computer >}} **Postdoctoral Researcher** <br>
+Rega Institute for Medical Research, KU Leuven, 2019
+
+
 ## Education
 
-**PhD in Biophysics**; 2019
+{{< fa graduation-cap >}} **PhD in Biophysics** <br> 
+Thesis: [Novel fluorescent probes and analysis methods for single-molecule and single-cell microscopy](https://research.rug.nl/en/publications/novel-fluorescent-probes-and-analysis-methods-for-single-molecule) \
+Rijkuniversiteit Groningen, 2019
 
-Rijkuniversiteit Groningen
+{{< fa graduation-cap >}} **MSc in Nanoscience** <br>
+Rijkuniversiteit Groningen, 2012
 
-**MSc in Nanoscience**; 2012
+{{< fa graduation-cap >}} **BSc in Chemistry** <br>
+Rijkuniversiteit Groningen, 2011
 
-Rijkuniversiteit Groningen
+{{< fa graduation-cap >}} **BSc in Physics**  <br>
+Rijkuniversiteit Groningen, 2010
 
-**BSc in Chemistry**; 2011
-
-Rijkuniversiteit Groningen
-
-**BSc in Physics**; 2010
-
-Rijkuniversiteit Groningen
 
