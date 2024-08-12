@@ -6,7 +6,6 @@ This website provides an overview of my work and interests.
 I am currently a postdoctoral researcher at the KU Leuven, Belgium. 
 
 
-
 <marquee behavior="scroll" direction="left" scrollamount="5">
 Welcome to my website ! Please enjoy your visit.
 </marquee>
