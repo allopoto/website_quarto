@@ -13,6 +13,8 @@ website:
         href: software.qmd
       - text: "Tools"
         href: tools.qmd
+      - text: "Hiking"
+        href: hikes/hikemap.qmd
     right:
       - text: About
         href: about.qmd
