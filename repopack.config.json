@@ -1,0 +1,13 @@
+{
+
+    "include": ["**/*"],
+    "ignore": {
+      "useGitignore": true,
+      "useDefaultPatterns": true,
+      "customPatterns": [
+        "posts/behind-the-gif",
+        "posts/radius-correlation",
+        "posts/cell-width"        
+        ]
+    }
+  }
