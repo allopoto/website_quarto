@@ -2,7 +2,7 @@
 from pathlib import Path
 
 import gpxpy
-from ipyleaflet import Map, Marker, Polyline
+from ipyleaflet import Map, Marker, MarkerCluster, Polyline
 from ipywidgets import HTML, Layout
 
 AMS = (2.377956, 4.897070)
@@ -41,6 +41,7 @@ def valid(p: Path) -> bool:
 
 
 dirs = [d for d in Path("hikes-gpx").iterdir() if valid(d)]
+markers = []
 for dpath in dirs:
     coords = load_coords(dpath)
     gpx_track = Polyline(locations=coords, color="blue", fill=False, opacity=0.7)
@@ -52,8 +53,13 @@ for dpath in dirs:
         <a href="/hikes/posts/{dpath.stem}.html">View Details</a>
         """
         gpx_marker.popup = HTML(popup_html)
-    m.add_layer(gpx_track)
-    m.add_layer(gpx_marker)
+
+    m.add(gpx_track)
+    markers.append(gpx_marker)
+
+
+m.add(MarkerCluster(markers=markers))
+
 m
 
 # %%
