@@ -6,7 +6,7 @@ categories: [analysis, smFRET]
 format:
   html:
     code-fold: true
-image: "image.jpg"
+image: "image.png"
 ---
 
 How do we find a dissociation constant from single-molecule FRET data?
