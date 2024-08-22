@@ -1,7 +1,9 @@
 ---
 title: "Jochem's Blog"
 listing:
-  contents: posts
+  contents: 
+    - posts
+    - "!hikes/posts"
   sort: "date desc"
   type: default
   categories: true
