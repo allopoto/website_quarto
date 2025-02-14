@@ -7,6 +7,9 @@ about:
       - icon: github
         text: GitHub
         href: https://github.com/Jhsmit
+      - icon: cloud-fill
+        text: Bluesky
+        href: https://bsky.app/profile/jhsmit.bsky.social
       - icon: twitter
         text: twitter
         href: https://x.com/Jhsmit_
@@ -15,7 +18,7 @@ about:
         href: https://www.linkedin.com/in/jochem-smit-4ba2a994/
 ---
 
-My interest in mechanisms of physical law and biological machinery is what drives me to do research. I have a strong background in both Chemistry and Physics as well as programming expertise which allows me to contribute to a broad range of interdisciplinary research projects. In our lab we use a combination of HDX-MS ans smFRET to study protein (non)folding and chaperone interactions.
+My interest in mechanisms of physical law and biological machinery is what drives me to do research. I have a strong background in both Chemistry and Physics as well as programming expertise which allows me to contribute to a broad range of interdisciplinary research projects. In our lab we use a combination of HDX-MS and smFRET to study protein (non)folding and chaperone interactions.
 
 ## Experience
 
