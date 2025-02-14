@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Iterable
 
 import gpxpy
-from ipyleaflet import Map, Marker, MarkerCluster, Polyline
+from ipyleaflet import Map, Marker, MarkerCluster, Polyline, FullScreenControl
 from ipywidgets import HTML, Layout
 
 AMS = (2.377956, 4.897070)
@@ -56,6 +56,7 @@ def make_tracks(segment_coords: Iterable[list[tuple[float, float]]]) -> list[Pol
 
 # %%
 m = Map(center=AMS, zoom=2, scroll_wheel_zoom=True, layout=Layout(height="600px"))
+m.add(FullScreenControl())
 
 dirs = [d for d in Path("hikes-gpx").iterdir() if valid(d)]
 markers = []
