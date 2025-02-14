@@ -2,6 +2,12 @@
 title: "Software"
 listing:
   contents:
+    - path: https://github.com/Jhsmit/dont-fret
+      image: https://raw.githubusercontent.com/Jhsmit/dont-fret/master/assets/screenshot.png
+      title: "Don't FRET"
+      description: "Don’t FRET! is a python package featuring a web application for performing burst search and downstream analysis on confocal smFRET data."
+      date: "2024-04-09"
+
     - path: https://github.com/Jhsmit/ipymolstar
       image: https://raw.githubusercontent.com/Jhsmit/ipymolstar/master/assets/ipymolstar_screenshot.png
       title: "ipymolstar"
