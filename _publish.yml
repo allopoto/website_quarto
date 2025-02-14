@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: ba51db87-dfaf-4f32-a32b-752f2c23ba14
-      url: 'https://jhsmit.org'
+      url: https://jhsmit.org
