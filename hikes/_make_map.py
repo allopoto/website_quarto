@@ -74,7 +74,6 @@ for dpath in dirs:
         """
         gpx_marker.popup = HTML(popup_html)
 
-    # m.add(gpx_track)
     markers.append(gpx_marker)
 
 m.add(MarkerCluster(markers=markers))
