@@ -34,6 +34,7 @@ https://jadeyryan.com/blog/2024-02-19_beginner-quarto-netlify/
 https://www.marvinschmitt.com/blog/website-tutorial-quarto/
 https://samanthacsik.github.io/
 https://github.com/spcanelon/silvia
+https://ullahsamee.github.io/
 
 
 twitter cards / social media preview:
