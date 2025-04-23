@@ -2,6 +2,14 @@
 title: "Software"
 listing:
   contents:
+    - path: https://huggingface.co/spaces/Jhsmit/instaGibbs
+      image: https://filedn.eu/loRXwzWCNnU4XoFPGbllt1y/instagibbs_screenshot.png
+      title: "InstaGibbs"
+      description: "The aim of instagibbs is to rapidly and easily obtain Linderstrøm-Lang ΔG and ΔΔG values from HDX-MS data both at the peptide and residue level. 
+
+      The web interface pulls published HDX-MS datasets from a database and can be accessed and visualized directly as peptide, residue and protein structure representations."
+      date: "2025-04-23"
+
     - path: https://github.com/Jhsmit/dont-fret
       image: https://raw.githubusercontent.com/Jhsmit/dont-fret/master/assets/screenshot.png
       title: "Don't FRET"
