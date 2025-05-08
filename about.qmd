@@ -7,7 +7,7 @@ about:
       - icon: github
         text: GitHub
         href: https://github.com/Jhsmit
-      - icon: cloud-fill
+      - icon: bluesky
         text: Bluesky
         href: https://bsky.app/profile/jhsmit.bsky.social
       - icon: twitter
