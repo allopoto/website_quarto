@@ -1,0 +1,1087 @@
+[
+	{
+		"id": "http://zotero.org/users/112239/items/BFLSN9ME",
+		"type": "article-journal",
+		"abstract": "Type III protein secretion is widespread in Gram-negative pathogens. It comprises the injectisome with a surface-exposed needle and an inner membrane translocase. The translocase contains the SctRSTU export channel enveloped by the export gate subunit SctV that binds chaperone/exported clients and forms a putative ante-chamber. We probed the assembly, function, structure and dynamics of SctV from enteropathogenic E. coli (EPEC). In both EPEC and E. coli lab strains, SctV forms peripheral oligomeric clusters that are detergent-extracted as homo-nonamers. Membrane-embedded SctV9 is necessary and sufficient to act as a receptor for different chaperone/exported protein pairs with distinct C-domain binding sites that are essential for secretion. Negative staining electron microscopy revealed that peptidisc-reconstituted His-SctV9 forms a tripartite particle of ∼22 nm with a N-terminal domain connected by a short linker to a C-domain ring structure with a ∼5 nm-wide inner opening. The isolated C-domain ring was resolved with cryo-EM at 3.1 Å and structurally compared to other SctV homologues. Its four sub-domains undergo a three-stage “pinching” motion. Hydrogen-deuterium exchange mass spectrometry revealed this to involve dynamic and rigid hinges and a hyper-flexible sub-domain that flips out of the ring periphery and binds chaperones on and between adjacent protomers. These motions are coincident with local conformational changes at the pore surface and ring entry mouth that may also be modulated by the ATPase inner stalk. We propose that the intrinsic dynamics of the SctV protomer are modulated by chaperones and the ATPase and could affect allosterically the other subunits of the nonameric ring during secretion.",
+		"container-title": "Journal of Molecular Biology",
+		"DOI": "10.1016/j.jmb.2021.167188",
+		"ISSN": "0022-2836",
+		"issue": "21",
+		"journalAbbreviation": "Journal of Molecular Biology",
+		"language": "en",
+		"page": "167188",
+		"source": "ScienceDirect",
+		"title": "Structural Dynamics of the Functional Nonameric Type III Translocase Export Gate",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0022283621004216",
+		"volume": "433",
+		"author": [
+			{
+				"family": "Yuan",
+				"given": "Biao"
+			},
+			{
+				"family": "Portaliou",
+				"given": "Athina G."
+			},
+			{
+				"family": "Parakra",
+				"given": "Rinky"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Wald",
+				"given": "Jiri"
+			},
+			{
+				"family": "Li",
+				"given": "Yichen"
+			},
+			{
+				"family": "Srinivasu",
+				"given": "Bindu"
+			},
+			{
+				"family": "Loos",
+				"given": "Maria S."
+			},
+			{
+				"family": "Dhupar",
+				"given": "Harveer Singh"
+			},
+			{
+				"family": "Fahrenkamp",
+				"given": "Dirk"
+			},
+			{
+				"family": "Kalodimos",
+				"given": "Charalampos G."
+			},
+			{
+				"family": "Duong van Hoa",
+				"given": "Franck"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Marlovits",
+				"given": "Thomas C."
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/6FNBGJFL",
+		"type": "article-journal",
+		"abstract": "The lateral gate of the bacterial translocon SecYEG is the point of entry for proteins destined for the lipid bilayer to insert into the plasma membrane. A study in PNAS has identified local dynamics at the gate: Mercier et al. (1) masterfully apply single-molecule fluorescence techniques to the translocon reconstituted in vitro, revealing a continuum of protein dynamics and modulation of the dynamic landscape by binding partners and mutations.\n\nCompartmentalization is a hallmark of cells and essential for their viability. To maintain it successfully, the flux of information and molecules across the membranes that delimit compartments must be tightly controlled. Evolution has addressed this challenge by inserting into cell membranes specialist proteins that constitute up to a third of the cellular proteome. Membrane-embedded proteins are commonly cotranslationally targeted as ribosome-nascent-chain complexes (RNC) to either the endoplasmic reticulum in eukaryotes or the plasma membrane in bacteria, after which they are inserted in the membrane by the universally conserved heterotrimeric Sec translocon (2). Its central subunit is an integral membrane protein, bacterial SecY/eukaryotic Sec61α, forming a protein-conducting channel in the lipid bilayer and being stabilized by the peripheral transmembrane subunits SecE/Sec61γ and SecG/Secβ.\n\nThe SecY channel is formed of 10 transmembrane α-helices (TM) bundled around a central pore allowing the vectorial crossing of largely soluble secretory proteins to the periplasm. It also has a “lateral gate” formed between TM2 and TM7 (3) (Fig. 1, Left ), that can open to transfer secretory signal sequences and transmembrane protein segments from the central pore to the hydrophobic phospholipid core of the membrane (4). Biochemical analyses and crystal and cryo-electron microscopy structures proposed that the lateral gate exists in three main states: 1) a closed “resting state” where the TM2 and TM7 interact through a hydrogen-bond cluster connecting them (5), 2) a “pre-open state” induced … \n\n[↵][1]1To whom correspondence may be addressed. Email: tassos.economou{at}kuleuven.be.\n\n [1]: #xref-corresp-1-1",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.2110553118",
+		"ISSN": "0027-8424, 1091-6490",
+		"issue": "29",
+		"journalAbbreviation": "PNAS",
+		"language": "en",
+		"license": "© 2021 . https://www.pnas.org/site/aboutpnas/licenses.xhtmlPublished under the PNAS license.",
+		"note": "publisher: National Academy of Sciences\nsection: Commentary\nPMID: 34272283",
+		"source": "www.pnas.org",
+		"title": "Dynamics ante portas",
+		"URL": "https://www.pnas.org/content/118/29/e2110553118",
+		"volume": "118",
+		"author": [
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Roussel",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					7,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/JIGABUXB",
+		"type": "article-journal",
+		"container-title": "Physical Chemistry Chemical Physics",
+		"DOI": "10.1039/C8CP05063E",
+		"issue": "7",
+		"language": "en",
+		"page": "3721-3733",
+		"source": "pubs.rsc.org",
+		"title": "On the impact of competing intra- and intermolecular triplet-state quenching on photobleaching and photoswitching kinetics of organic fluorophores",
+		"URL": "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp05063e",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Velde",
+				"given": "Jasper H. M.",
+				"dropping-particle": "van der"
+			},
+			{
+				"family": "Huang",
+				"given": "Jingyi"
+			},
+			{
+				"family": "Trauschke",
+				"given": "Vanessa"
+			},
+			{
+				"family": "S. Henrikus",
+				"given": "Sarah"
+			},
+			{
+				"family": "Chen",
+				"given": "Si"
+			},
+			{
+				"family": "Eleftheriadis",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "M. Warszawik",
+				"given": "Eliza"
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/RJ9NM95W",
+		"type": "article-journal",
+		"abstract": "In recent years, optical microscopy techniques have emerged that allow optical imaging at unprecedented resolution beyond the diffraction limit. These techniques exploit photostabilizing buffers to enable photoswitching and/or the enhancement of fluorophore brightness and stability. A major drawback with the use of photostabilizing buffers, however, is that they cannot be used in live cell imaging. In this paper, we tested the performance of self-healing organic fluorophores, which undergo intramolecular photostabilization, in super-resolution microscopy examining both targeted (stimulated emission depletion (STED) microscopy) and stochastic readout (stochastic optical reconstruction microscopy (STORM)). The overall goal of the study was to identify dyes and conditions that lead to improved spatial and temporal resolution of both techniques without the need for mixtures of photostabilizing agents in the imaging buffer. As a result of previously shown superior performance, we identified an ATTO647N-photostabilizer conjugate as a potential candidate for STED microscopy. We have here characterized the photostability and resulting performance of this nitrophenylalanine (NPA) conjugate of ATTO647N on oligonucleotides in STED microscopy. We found that the superior photophysical performance resulted in optimal STED imaging and demonstrated that single-molecule fluorescent transients of individual fluorophores can be obtained with both the excitation- and STED-laser. In similar experiments, we also tested a nitrophenylacetic acid conjugate of STAR635P, another frequently used dye in STED microscopy, and present a characterization of its photophysical properties. Finally, we performed an analysis of the photoswitching kinetics of self-healing Cy5 dyes (containing trolox, cyclooctatetraene and NPA-based stabilizers) in the presence of Tris(2-carboxyethyl)phosphine and cysteamine, which are typically used in STORM microscopy. In line with previous work, we found that intramolecular photostabilization strongly influences photoswitching kinetics and requires careful attention when designing STORM-experiments. In summary, this contribution explores the possibilities and limitations of self-healing dyes in super-resolution microscopy of differing modalities.",
+		"container-title": "Journal of Physics D: Applied Physics",
+		"DOI": "10.1088/1361-6463/aae752",
+		"ISSN": "0022-3727",
+		"issue": "3",
+		"journalAbbreviation": "J. Phys. D: Appl. Phys.",
+		"language": "en",
+		"page": "034001",
+		"source": "Institute of Physics",
+		"title": "Self-healing dyes for super-resolution fluorescence microscopy",
+		"URL": "https://doi.org/10.1088%2F1361-6463%2Faae752",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Velde",
+				"given": "Jasper H. M.",
+				"dropping-particle": "van der"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Hebisch",
+				"given": "Elke"
+			},
+			{
+				"family": "Punter",
+				"given": "Michiel"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/4467D9JE",
+		"type": "article-journal",
+		"abstract": "Intramolecular photostabilization via triple-state quenching was recently revived as a tool to impart synthetic organic fluorophores with ‘self-healing’ properties. To date, utilization of such fluorophore derivatives is rare due to their elaborate multi-step synthesis. Here we present a general strategy to covalently link a synthetic organic fluorophore simultaneously to a photostabilizer and biomolecular target via unnatural amino acids. The modular approach uses commercially available starting materials and simple chemical transformations. The resulting photostabilizer–dye conjugates are based on rhodamines, carbopyronines and cyanines with excellent photophysical properties, that is, high photostability and minimal signal fluctuations. Their versatile use is demonstrated by single-step labelling of DNA, antibodies and proteins, as well as applications in single-molecule and super-resolution fluorescence microscopy. We are convinced that the presented scaffolding strategy and the improved characteristics of the conjugates in applications will trigger the broader use of intramolecular photostabilization and help to emerge this approach as a new gold standard.",
+		"container-title": "Nature Communications",
+		"DOI": "10.1038/ncomms10144",
+		"ISSN": "2041-1723",
+		"language": "en",
+		"license": "2016 Nature Publishing Group",
+		"page": "10144",
+		"source": "www.nature.com",
+		"title": "A simple and versatile design concept for fluorophore derivatives with intramolecular photostabilization",
+		"URL": "https://www.nature.com/articles/ncomms10144",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Velde",
+				"given": "Jasper H. M.",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Oelerich",
+				"given": "Jens"
+			},
+			{
+				"family": "Huang",
+				"given": "Jingyi"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Aminian Jazi",
+				"given": "Atieh"
+			},
+			{
+				"family": "Galiani",
+				"given": "Silvia"
+			},
+			{
+				"family": "Kolmakov",
+				"given": "Kirill"
+			},
+			{
+				"family": "Gouridis",
+				"given": "Giorgos"
+			},
+			{
+				"family": "Eggeling",
+				"given": "Christian"
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Roelfes",
+				"given": "Gerard"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/4P79J2VT",
+		"type": "article-journal",
+		"abstract": "Fluorescence is a versatile tool for spectroscopic investigations and imaging of dynamic processes and structures across various scientific disciplines. The photophysical performance, that is, signal stability and signal duration, of the employed fluorophores is a major limiting factor. In this Letter, we propose a general concept to covalently link molecules, which are known for their positive effect in photostabilization, to form a combined photostabilizer with new properties. The direct linkage of two (or more) photostabilizers will allow one to obtain combined or synergetic effects in fluorophore stabilization and can simplify the preparation of imaging buffers that would otherwise require a mixture of photostabilizers for optimal performance. This concept was explored by synthesizing a molecule with a reducing and oxidizing moiety that is referred to as internal ROXS or \"iROXS\". Using single-molecule fluorescence microscopy, inter- and intramolecular healing of iROXS was observed, that is, strongly reduced blinking and increased photostability of the cyanine fluorophore Cy5. Moreover, it is shown that a covalently coupled photostabilizer can replace a mixture of molecules needed to make a functional photostabilizing ROXS buffer and might hence represent the new standard for defined and reproducible imaging conditions in single-molecule experiments. In self-healing fluorophores with intramolecular triplet-state quenching, an unprecedented photostability increase of >100-fold was obtained when using iROXS, which is even competitive with solution-based healing. Control experiments show that the oxidizing part of the iROXS molecule, an aromatic nitro group, dominates the healing process. The suggested synthetic concept and the proof-of-concept experiments represent the starting point for the quest to identify optimal combinations of linked photostabilizers for various fluorescence applications.",
+		"container-title": "The Journal of Physical Chemistry Letters",
+		"DOI": "10.1021/jz501874f",
+		"ISSN": "1948-7185",
+		"issue": "21",
+		"journalAbbreviation": "J Phys Chem Lett",
+		"language": "eng",
+		"note": "PMID: 26278749",
+		"page": "3792-3798",
+		"source": "PubMed",
+		"title": "The Power of Two: Covalent Coupling of Photostabilizers for Fluorescence Applications",
+		"title-short": "The Power of Two",
+		"volume": "5",
+		"author": [
+			{
+				"family": "Velde",
+				"given": "Jasper H. M.",
+				"non-dropping-particle": "van der"
+			},
+			{
+				"family": "Oelerich",
+				"given": "Jens"
+			},
+			{
+				"family": "Huang",
+				"given": "Jingyi"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Hiermaier",
+				"given": "Matthias"
+			},
+			{
+				"family": "Ploetz",
+				"given": "Evelyn"
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Roelfes",
+				"given": "Gerard"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/WN59QU2M",
+		"type": "article-journal",
+		"abstract": "Intensity fluctuations between an ON-state and an OFF-state, also called blinking, are common to all luminescent objects when studied at the level of individuals. We studied blinking of three dyes from a homologous series (Cy3, Cy5, Cy7). The underlying radical anion states were induced by removing oxidants (i.e. oxygen) and by adding the reductant ascorbic acid. We find that for different conditions with distinct levels of oxidants in solution the OFF-state lifetime always increases in the order Cy3<Cy5<Cy7. Longer OFF-times are related to higher reduction potentials of the fluorophores, which increase with the size of the chromophore. Interestingly, we find reaction rates of the radical anion that are unexpectedly low at the assumed oxygen concentration. On the other hand, reaction rates meet the expectations of similar Rehm–Weller plots when methylviologen is used as oxidant, confirming the model of photoinduced reduction and oxidation reactions. The relation of OFF-state lifetimes to redox potentials might enable predictions about the nature of dark states, depending on the fluorophores’ nano-environment in super-resolution microscopy.",
+		"container-title": "ChemPhysChem",
+		"DOI": "10.1002/cphc.201100820",
+		"ISSN": "1439-7641",
+		"issue": "4",
+		"language": "en",
+		"license": "Copyright © 2012 WILEY‐VCH Verlag GmbH & Co. KGaA, Weinheim",
+		"page": "931-937",
+		"source": "Wiley Online Library",
+		"title": "Linking Single-Molecule Blinking to Chromophore Structure and Redox Potentials",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201100820",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Stein",
+				"given": "Ingo H."
+			},
+			{
+				"family": "Capone",
+				"given": "Stella"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Baumann",
+				"given": "Fabian"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			},
+			{
+				"family": "Tinnefeld",
+				"given": "Philip"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/HBSM8H6E",
+		"type": "article-journal",
+		"abstract": "Single-molecule fluorescence microscopy studies of bacteria provide unique insights into the mechanisms of cellular processes and protein machineries in ways that are unrivalled by any other technique. With the cost of microscopes dropping and the availability of fully automated microscopes, the volume of microscopy data produced has increased tremendously. These developments have moved the bottleneck of throughput from image acquisition and sample preparation to data analysis. Furthermore, requirements for analysis procedures have become more stringent given the demand of various journals to make data and analysis procedures available. To address these issues we have developed a new data analysis package for analysis of fluorescence microscopy data from rod-like cells. Our software ColiCoords structures microscopy data at the single-cell level and implements a coordinate system describing each cell. This allows for the transformation of Cartesian coordinates from transmission light and fluorescence images and single-molecule localization microscopy (SMLM) data to cellular coordinates. Using this transformation, many cells can be combined to increase the statistical power of fluorescence microscopy datasets of any kind. ColiCoords is open source, implemented in the programming language Python, and is extensively documented. This allows for modifications for specific needs or to inspect and publish data analysis procedures. By providing a format that allows for easy sharing of code and associated data, we intend to promote open and reproducible research. The source code and documentation can be found via the project’s GitHub page.",
+		"container-title": "PLOS ONE",
+		"DOI": "10.1371/journal.pone.0217524",
+		"ISSN": "1932-6203",
+		"issue": "6",
+		"journalAbbreviation": "PLOS ONE",
+		"language": "en",
+		"page": "e0217524",
+		"source": "PLoS Journals",
+		"title": "ColiCoords: A Python package for the analysis of bacterial fluorescence microscopy data",
+		"title-short": "ColiCoords",
+		"URL": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217524",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Li",
+				"given": "Yichen"
+			},
+			{
+				"family": "Warszawik",
+				"given": "Eliza M."
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/DJQ92AP3",
+		"type": "article-journal",
+		"abstract": "Abstract Secretory preproteins of the Sec pathway are targeted post-translationally and cross cellular membranes through translocases. During cytoplasmic transit, mature domains remain non-folded for translocase recognition/translocation. After translocation and signal peptide cleavage, mature domains fold to native states in the bacterial periplasm or traffic further. We sought the structural basis for delayed mature domain folding and how signal peptides regulate it. We compared how evolution diversified a periplasmic peptidyl-prolyl isomerase PpiA mature domain from its structural cytoplasmic PpiB twin. Global and local hydrogen?deuterium exchange mass spectrometry showed that PpiA is a slower folder. We defined at near-residue resolution hierarchical folding initiated by similar foldons in the twins, at different order and rates. PpiA folding is delayed by less hydrophobic native contacts, frustrated residues and a ?-turn in the earliest foldon and by signal peptide-mediated disruption of foldon hierarchy. When selected PpiA residues and/or its signal peptide were grafted onto PpiB, they converted it into a slow folder with enhanced in vivo secretion. These structural adaptations in a secretory protein facilitate trafficking.",
+		"container-title": "The EMBO Journal",
+		"DOI": "10.15252/embj.2022111344",
+		"ISSN": "0261-4189",
+		"issue": "23",
+		"note": "publisher: John Wiley & Sons, Ltd",
+		"page": "e111344",
+		"source": "embopress.org (Atypon)",
+		"title": "Evolutionary adaptation of the protein folding pathway for secretability",
+		"URL": "https://www.embopress.org/doi/abs/10.15252/embj.2022111344",
+		"volume": "41",
+		"author": [
+			{
+				"family": "Smets",
+				"given": "Dries"
+			},
+			{
+				"family": "Tsirigotaki",
+				"given": "Alexandra"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H"
+			},
+			{
+				"family": "Krishnamurthy",
+				"given": "Srinath"
+			},
+			{
+				"family": "Portaliou",
+				"given": "Athina G"
+			},
+			{
+				"family": "Vorobieva",
+				"given": "Anastassia"
+			},
+			{
+				"family": "Vranken",
+				"given": "Wim"
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					2,
+					20
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/HVNLP95L",
+		"type": "article-journal",
+		"abstract": "Many life-science techniques and assays rely on selective labeling of biological target structures with commercial fluorophores that have specific yet invariant properties. Consequently, a fluorophore (or dye) is only useful for a limited range of applications, e.g., as a label for cellular compartments, super-resolution imaging, DNA sequencing or for a specific biomedical assay. Modifications of fluorophores with the goal to alter their bioconjugation chemistry, photophysical or functional properties typically require complex synthesis schemes. We here introduce a general strategy that allows to customize these properties during biolabelling with the goal to introduce the fluorophore in the last step of biolabelling. For this, we present the design and synthesis of ‘linker’ compounds, that bridge biotarget, fluorophore and a functional moiety via well-established labeling protocols. Linker molecules were synthesized via the Ugi four-component reaction (Ugi-4CR) which facilitates a modular design of linkers with diverse functional properties and bioconjugation- and fluorophore attachment moieties. To demonstrate the possibilities of different linkers experimentally, we characterized the ability of commercial fluorophores from the classes of cyanines, rhodamines, carbopyronines and silicon-rhodamines to become functional labels on different biological targets in vitro and in vivo via thiol-maleimide chemistry. With our strategy, we showed that the same commercial dye can become a photostable self-healing dye or a sensor for bivalent ions subject to the linker used. Finally, we quantified the photophysical performance of different self-healing linker–fluorophore conjugates and demonstrated their applications in super-resolution imaging and single-molecule spectroscopy.",
+		"container-title": "Angewandte Chemie International Edition",
+		"DOI": "10.1002/anie.202112959",
+		"ISSN": "1521-3773",
+		"issue": "19",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202112959",
+		"page": "e202112959",
+		"source": "Wiley Online Library",
+		"title": "Linker Molecules Convert Commercial Fluorophores into Tailored Functional Probes during Biolabelling",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202112959",
+		"volume": "61",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Lei"
+			},
+			{
+				"family": "Isselstein",
+				"given": "Michael"
+			},
+			{
+				"family": "Köhler",
+				"given": "Jens"
+			},
+			{
+				"family": "Eleftheriadis",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Huisjes",
+				"given": "Nadia M."
+			},
+			{
+				"family": "Guirao-Ortiz",
+				"given": "Miguel"
+			},
+			{
+				"family": "Narducci",
+				"given": "Alessandra"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Stoffels",
+				"given": "Janko"
+			},
+			{
+				"family": "Harz",
+				"given": "Hartmann"
+			},
+			{
+				"family": "Leonhardt",
+				"given": "Heinrich"
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Cordes",
+				"given": "Thorben"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/3EQKM92H",
+		"type": "article-journal",
+		"abstract": "Sec secretory proteins are distinguished from cytoplasmic ones by N-terminal signal peptides with multiple roles during post-translational translocation. They contribute to preprotein targeting to the translocase by slowing down folding, binding receptors and triggering secretion. While signal peptides get cleaved after translocation, mature domains traffic further and/or fold into functional states. How signal peptides delay folding temporarily, to keep mature domains translocation-competent, remains unclear. We previously reported that the foldon landscape of the periplasmic prolyl-peptidyl isomerase is altered by its signal peptide and mature domain features. Here, we reveal that the dynamics of signal peptides and mature domains crosstalk. This involves the signal peptide’s hydrophobic helical core, the short unstructured connector to the mature domain and the flexible rheostat at the mature domain N-terminus. Through this cis mechanism the signal peptide delays the formation of early initial foldons thus altering their hierarchy and delaying mature domain folding. We propose that sequence elements outside a protein’s native core exploit their structural dynamics to influence the folding landscape.",
+		"container-title": "Journal of Molecular Biology",
+		"DOI": "10.1016/j.jmb.2022.167790",
+		"ISSN": "0022-2836",
+		"issue": "19",
+		"journalAbbreviation": "Journal of Molecular Biology",
+		"language": "en",
+		"page": "167790",
+		"source": "ScienceDirect",
+		"title": "Signal Peptide-rheostat Dynamics Delay Secretory Preprotein Folding",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0022283622003989",
+		"volume": "434",
+		"author": [
+			{
+				"family": "Smets",
+				"given": "Dries"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem"
+			},
+			{
+				"family": "Xu",
+				"given": "Ying"
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					9,
+					15
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/Y3HPXFHR",
+		"type": "article-journal",
+		"container-title": "Cell Reports",
+		"DOI": "10.1016/j.celrep.2022.110346",
+		"ISSN": "2211-1247",
+		"issue": "6",
+		"journalAbbreviation": "Cell Reports",
+		"language": "English",
+		"note": "publisher: Elsevier\nPMID: 35139375",
+		"source": "www-cell-com.kuleuven.e-bronnen.be",
+		"title": "Preproteins couple the intrinsic dynamics of SecA to its ATPase cycle to translocate via a catch and release mechanism",
+		"URL": "http://www.cell.com/cell-reports/abstract/S2211-1247(22)00062-6",
+		"volume": "38",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "Srinath"
+			},
+			{
+				"family": "Sardis",
+				"given": "Marios-Frantzeskos"
+			},
+			{
+				"family": "Eleftheriadis",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Chatzi",
+				"given": "Katerina E."
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Karathanou",
+				"given": "Konstantina"
+			},
+			{
+				"family": "Gouridis",
+				"given": "Giorgos"
+			},
+			{
+				"family": "Portaliou",
+				"given": "Athina G."
+			},
+			{
+				"family": "Bondar",
+				"given": "Ana-Nicoleta"
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/RU3MR75G",
+		"type": "article-journal",
+		"container-title": "Structure",
+		"DOI": "10.1016/j.str.2021.03.015",
+		"ISSN": "0969-2126",
+		"issue": "8",
+		"journalAbbreviation": "Structure",
+		"language": "English",
+		"note": "publisher: Elsevier\nPMID: 33852897",
+		"page": "846-858.e7",
+		"source": "www-cell-com.kuleuven.e-bronnen.be",
+		"title": "A nexus of intrinsic dynamics underlies translocase priming",
+		"URL": "http://www.cell.com/structure/abstract/S0969-2126(21)00113-1",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "Srinath"
+			},
+			{
+				"family": "Eleftheriadis",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Karathanou",
+				"given": "Konstantina"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Portaliou",
+				"given": "Athina G."
+			},
+			{
+				"family": "Chatzi",
+				"given": "Katerina E."
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Bondar",
+				"given": "Ana-Nicoleta"
+			},
+			{
+				"family": "Gouridis",
+				"given": "Giorgos"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					8,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/8B84HZZL",
+		"type": "article-journal",
+		"abstract": "Hydrogen–deuterium exchange mass spectrometry (HDX-MS) is a powerful technique to monitor protein intrinsic dynamics. The technique provides high-resolution information on how protein intrinsic dynamics are altered in response to biological signals, such as ligand binding, oligomerization, or allosteric networks. However, identification, interpretation, and visualization of such events from HDX-MS data sets is challenging as these data sets consist of many individual data points collected across peptides, time points, and experimental conditions. Here, we present PyHDX, an open-source Python package and webserver, that allows the user to batch extract the universal quantity Gibbs free energy at residue levels over multiple protein conditions and homologues. The output is directly visualized on a linear map or 3D structures or is exported as .csv files or PyMOL scripts.",
+		"container-title": "Analytical Chemistry",
+		"DOI": "10.1021/acs.analchem.1c02155",
+		"ISSN": "0003-2700",
+		"issue": "38",
+		"journalAbbreviation": "Anal. Chem.",
+		"note": "publisher: American Chemical Society",
+		"page": "12840-12847",
+		"source": "ACS Publications",
+		"title": "Probing Universal Protein Dynamics Using Hydrogen–Deuterium Exchange Mass Spectrometry-Derived Residue-Level Gibbs Free Energy",
+		"URL": "https://doi.org/10.1021/acs.analchem.1c02155",
+		"volume": "93",
+		"author": [
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Krishnamurthy",
+				"given": "Srinath"
+			},
+			{
+				"family": "Srinivasu",
+				"given": "Bindu Y."
+			},
+			{
+				"family": "Parakra",
+				"given": "Rinky"
+			},
+			{
+				"family": "Karamanou",
+				"given": "Spyridoula"
+			},
+			{
+				"family": "Economou",
+				"given": "Anastassios"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/6BMCGWIH",
+		"type": "article-journal",
+		"abstract": "Biosensors, which harness the unique specific binding properties of biomaterials such as proteis, are increasingly recognized as a powerful tool for chemical sensing. In this context, the detection of nucleic acids DNA and RNA will take on ever more importance for screening as the fields\nof genomics and diagnostics advance. The same properties that allow molecular recognition–strong, specific non-covalent interactions–also enable bottom-up assembly of sensing architectures. Here, we take advantage of such interactions for the self-assembly of field-effect transistors\nfrom semiconducting single-walled carbon nanotubes selectively dispersed by DNA-block-copolymers and anchored to the electrodes through DNA hybridization. These transistors can sensitively detect the hybridization of complementary target DNA strands through transduction of the chemical recognition\nevent into electrical doping, achieving an analyte sensitivity of 10 fM. Such ultra-sensitive electrical-based detection removes the need for DNA amplification and offers a new route to nucleic acids diagnostics.",
+		"container-title": "Journal of Nanoscience and Nanotechnology",
+		"DOI": "10.1166/jnn.2017.13796",
+		"issue": "8",
+		"journalAbbreviation": "Journal of Nanoscience and Nanotechnology",
+		"page": "5175-5180",
+		"source": "IngentaConnect",
+		"title": "Ultrasensitive Detection of Oligonucleotides: Single-Walled Carbon Nanotube Transistor Assembled by DNA Block Copolymer",
+		"title-short": "Ultrasensitive Detection of Oligonucleotides",
+		"volume": "17",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Ju-Hyung"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H"
+			},
+			{
+				"family": "Prusty",
+				"given": "Deepak K"
+			},
+			{
+				"family": "Musser",
+				"given": "Andrew J"
+			},
+			{
+				"family": "Tombros",
+				"given": "Nikolaos"
+			},
+			{
+				"family": "Lee",
+				"given": "Peter C. W"
+			},
+			{
+				"family": "Herrmann",
+				"given": "Andreas"
+			},
+			{
+				"family": "Kwak",
+				"given": "Minseok"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/112239/items/HMHUNW9X",
+		"type": "article-journal",
+		"abstract": "Hydrogen–deuterium exchange (HDX) has become a pivotal method for investigating the structural and dynamic properties of proteins. The versatility and sensitivity of mass spectrometry (MS) made the technique the ideal companion for HDX, and today HDX-MS is addressing a growing number of applications in both academic research and industrial settings. The prolific generation of experimental data has spurred the concurrent development of numerous computational tools, designed to automate parts of the workflow while employing different strategies to achieve common objectives. Various computational methods are available to perform automated peptide searches and identification; different statistical tests have been implemented to quantify differences in the exchange pattern between two or more experimental conditions; alternative strategies have been developed to deconvolve and analyze peptides showing multimodal behavior; and different algorithms have been proposed to computationally increase the resolution of HDX-MS data, with the ultimate aim to provide information at the level of the single residue. This review delves into a comprehensive examination of the merits and drawbacks associated with the diverse strategies implemented by software tools for the analysis of HDX-MS data.",
+		"container-title": "Chemical Reviews",
+		"DOI": "10.1021/acs.chemrev.4c00438",
+		"ISSN": "0009-2665",
+		"issue": "21",
+		"journalAbbreviation": "Chem. Rev.",
+		"note": "publisher: American Chemical Society",
+		"page": "12242-12263",
+		"source": "ACS Publications",
+		"title": "Computational Tools for Hydrogen–Deuterium Exchange Mass Spectrometry Data Analysis",
+		"URL": "https://doi.org/10.1021/acs.chemrev.4c00438",
+		"volume": "124",
+		"author": [
+			{
+				"family": "Stofella",
+				"given": "Michele"
+			},
+			{
+				"family": "Grimaldi",
+				"given": "Antonio"
+			},
+			{
+				"family": "Smit",
+				"given": "Jochem H."
+			},
+			{
+				"family": "Claesen",
+				"given": "Jürgen"
+			},
+			{
+				"family": "Paci",
+				"given": "Emanuele"
+			},
+			{
+				"family": "Sobott",
+				"given": "Frank"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					2,
+					14
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					11,
+					13
+				]
+			]
+		}
+	}
+]
