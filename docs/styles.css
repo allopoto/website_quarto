@@ -1,0 +1,40 @@
+/* css styles */
+.pub-button {
+    border: 1px solid var(--bs-primary);
+    /* Use Bootstrap primary color */
+    border-radius: 5px;
+    padding: 2px 6px;
+    /* Reduced padding */
+    text-decoration: none;
+    display: inline-flex;
+    /* Align icon and text nicely */
+    align-items: center;
+    color: var(--bs-primary);
+    /* Use Bootstrap primary color */
+    margin-left: 8px;
+    /* Space from the preceding text */
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-size: 0.8em;
+    /* Reduced font size */
+}
+
+.pub-button:hover {
+    background-color: var(--bs-primary);
+    /* Adapts with theme */
+    color: var(--bs-white);
+    /* Text color on hover for light mode */
+}
+
+.pub-button i {
+    margin-right: 5px;
+    /* Space between icon and text */
+    font-size: 2em;
+    /* Adjusted icon size relative to new button text size */
+}
+
+/* Dark mode specific styles for .pub-button */
+[data-bs-theme="dark"] .pub-button:hover {
+    color: var(--bs-dark);
+    /* Text color on hover for dark mode */
+}

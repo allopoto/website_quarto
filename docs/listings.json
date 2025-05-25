@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/binding_kinetics/index.html",
+      "/tools/solarafold/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
+  },
+  {
+    "listing": "/software.html",
+    "items": []
+  }
+]

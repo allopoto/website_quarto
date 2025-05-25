@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools",
+    "section": "",
+    "text": "Binding Kinetics\n\n\n\n\n\n\n\n\n\n\n\nJul 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nSolarafold\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools/binding_kinetics/index.html",
+    "href": "tools/binding_kinetics/index.html",
+    "title": "Binding Kinetics",
+    "section": "",
+    "text": "This page contains various apps to calculate steady-state kinetics in various situations.\n\nDimerization Kinetics\n\n\n\nTetramerization Kinetics"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\nA full list of my published work can be found on Google Scholar and ORCID"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Jochem’s Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jochem H. Smit",
+    "section": "",
+    "text": "My interest in mechanisms of physical law and biological machinery is what drives me to do research. I have a strong background in both Chemistry and Physics as well as programming expertise which allows me to contribute to a broad range of interdisciplinary research projects. In our lab we use a combination of HDX-MS and smFRET to study protein (non)folding and chaperone interactions."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jochem H. Smit",
+    "section": "Experience",
+    "text": "Experience\n{{&lt; fa flask-vial &gt;}} {{&lt; fa computer &gt;}} Postdoctoral Researcher  Rega Institute for Medical Research, KU Leuven, 2019"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jochem H. Smit",
+    "section": "Education",
+    "text": "Education\n{{&lt; fa graduation-cap &gt;}} PhD in Biophysics  Thesis: Novel fluorescent probes and analysis methods for single-molecule and single-cell microscopy\nRijkuniversiteit Groningen, 2019\n{{&lt; fa graduation-cap &gt;}} MSc in Nanoscience  Rijkuniversiteit Groningen, 2012\n{{&lt; fa graduation-cap &gt;}} BSc in Chemistry  Rijkuniversiteit Groningen, 2011\n{{&lt; fa graduation-cap &gt;}} BSc in Physics  Rijkuniversiteit Groningen, 2010"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Jochem’s personal website.",
+    "section": "",
+    "text": "Welcome to Jochem’s personal website.\nThis website provides an overview of my work and interests.\nI am currently a postdoctoral researcher at the KU Leuven, Belgium.\n Welcome to my website ! Please enjoy your visit."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "InstaGibbs\n\n\n\n\n\nThe aim of instagibbs is to rapidly and easily obtain Linderstrøm-Lang ΔG and ΔΔG values from HDX-MS data both at the peptide and residue level. The web interface pulls published HDX-MS datasets from a database and can be accessed and visualized directly as peptide, residue and protein structure representations.\n\n\n\n\n\nApr 23, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDon’t FRET\n\n\n\n\n\nDon’t FRET! is a python package featuring a web application for performing burst search and downstream analysis on confocal smFRET data.\n\n\n\n\n\nApr 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nipymolstar\n\n\n\n\n\nipymolstar wraps the Mol* molecular visualization library for use in Jupyter notebooks or python-based web aplications. \n\n\n\n\n\nMay 10, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nPyHDX\n\n\n\n\n\nPyHDX is used to analyize HDX-MS datasets and express them as residue-level Gibbs free energies. Deuterium uptake kinetics are described as a single fit parameter per-residue using a PyTorch optimizer and the Linderstrøm-Lang model of Hydrogen-Deuterium Exchange. The project features an interactive web interface where users can upload, analyze and visualize their data.\n\n\n\n\n\nJan 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHDXrate\n\n\n\n\n\nHDX intrinsic exchange rate calculation of amide hydrogens.\n\n\n\n\n\nOct 23, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nColiCoords\n\n\n\n\n\nColiCoords is a python project for analysis of fluorescence microscopy data from rodlike cells. The project is aimed to be an open, well documented platform where users can easily share data through compact hdf5 files and analysis pipelines in the form of Jupyter notebooks.\n\n\n\n\n\nNov 18, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools/solarafold/index.html",
+    "href": "tools/solarafold/index.html",
+    "title": "Solarafold",
+    "section": "",
+    "text": "Solarafold is a solara based viewer for alphafold3 modelling results. Users can upload their alphafold3 .zip result file and view resulting models with ipymolstar.\nFor full screen and source code head over to the HuggingFace space."
+  }
+]
